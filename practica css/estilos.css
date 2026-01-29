@@ -1,0 +1,28 @@
+.caja {
+  background-color: lightblue;
+}
+#titulo {
+  color: blue;
+}
+#concepto {
+  color: rgb(180, 32, 32);
+  font-size: 60px;
+font-family: Arial;
+text-align: center;
+
+
+
+}
+#margen{
+    margin: 200px;
+    border: 1px solid black;
+    width: 800px;
+height: 300px;
+display: inline;
+display: flex;
+align-items: center;
+
+}
+a:hover {
+  color: rgb(8, 240, 0);
+}
